@@ -20,3 +20,16 @@ LeetPulse is an AI-powered LeetCode analytics and coaching platform that analyze
 - LLM-based insight generation
 
 ## Repo Structure
+
+leetpulse/\
+├── frontend/ # Next.js frontend\
+├── backend/ # FastAPI backend
+
+
+## Live Demo
+https://leetpulse-pearl.vercel.app/
+
+## Future Work
+- Goal-aware insight regeneration (Meta / Google prep)
+- Prompt fine-tuning
+- Personalized problem recommendations
