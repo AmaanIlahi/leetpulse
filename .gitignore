@@ -6,6 +6,10 @@ frontend/.next/
 backend/__pycache__/
 backend/.env
 backend/venv/
+backend/chroma_db/
+backend/last_scrape.json
+backend/debug_meta.png
+backend/app/evals/results/*.json
 
 # general
 .env

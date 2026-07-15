@@ -1,4 +1,11 @@
 __pycache__/
 .env
 .venv/
+venv/
 *.pyc
+.idea/
+.claude/
+chroma_db/
+last_scrape.json
+debug_meta.png
+app/evals/results/*.json
